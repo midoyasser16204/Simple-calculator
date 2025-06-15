@@ -16,6 +16,7 @@ A simple and functional calculator app for Android built using **Kotlin** and **
 
 ![Screenshot of Calculator](assets/Screenshot_20250615_162503.png)
 
+
 ## Getting Started
 
 ### Prerequisites
